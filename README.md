@@ -1,4 +1,7 @@
 # shopping_list
+[![Build status](https://build.appcenter.ms/v0.1/apps/f0f2d7ce-30cb-4d04-bf89-d15ff1bc6cea/branches/main/badge)](https://appcenter.ms)
+
+Publikasi: https://install.appcenter.ms/orgs/shopping-list-meefx/apps/shopping-list/distribution_groups/public
 
 A new Flutter project.
 
